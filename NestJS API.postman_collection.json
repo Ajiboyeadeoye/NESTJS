@@ -1,0 +1,11 @@
+{
+  "info": {
+    "_postman_id": "7f0b7d68-2c42-463c-b81f-dc82829b79fe",
+    "name": "NestJS API",
+    "description": "A collection to organize API requests for a NestJS tutorial project.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "39904928",
+    "_collection_link": "https://go.postman.co/collection/39904928-7f0b7d68-2c42-463c-b81f-dc82829b79fe?source=collection_link"
+  },
+  "item": []
+}
